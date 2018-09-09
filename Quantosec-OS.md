@@ -1,5 +1,5 @@
 # Quantosec Open-Source Licence
-<Copyright>
+[Copyright]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this material and associated documentation files (the 'material'), to
